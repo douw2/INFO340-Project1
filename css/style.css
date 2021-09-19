@@ -1,0 +1,24 @@
+a.website {
+    color:black;
+}
+
+a.website:hover{
+    color:#3f8b39;
+}
+
+h2 {
+    margin-top: 3rem;
+    color: #1a508b;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: #0d335d;
+    margin: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #1a508b;
+    margin-bottom: 70px;
+}
